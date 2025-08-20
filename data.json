@@ -1,0 +1,80 @@
+{
+  "guncellemeler": [
+    "Valorant Hilesi güncellendi: 2025-08-16",
+    "FiveM Hilesi güncellendi: 2025-08-16",
+    "Valorant Skinchanger güncellendi: 2025-08-15",
+    "Zula, Roblox ve GTA 5 bakımda: 2025-08-15"
+  ],
+  "hileler": [
+    {
+      "desc": "Aimbot,ESP,Triggerbot Gibi Daha Bir Çok Özellik Seni Bekliyor!",
+      "link": "https://ay.live/svalo",
+      "name": "Valorant Hilesi 🎯",
+      "status": "guncel",
+      "tag": "Valorant"
+    },
+    {
+      "desc": "İstediğiniz tüm skinler artık elinizin altında!",
+      "link": "https://ay.live/skins4",
+      "name": "Valorant Skinchanger 🖌️",
+      "status": "guncel",
+      "tag": "Valorant"
+    },
+    {
+      "desc": "Aimbot, ESP ve özel araçlar ile oyun deneyimini geliştirin!",
+      "link": "https://ay.live/fvs4",
+      "name": "FiveM Hilesi 🚗",
+      "status": "guncel",
+      "tag": "FiveM"
+    },
+    {
+      "desc": "Son Sürüm Piyasanın En İyisi!",
+      "link": "#",
+      "name": "Zula Hilesi ⚔️",
+      "status": "bakim",
+      "tag": "Zula"
+    },
+    {
+      "desc": "No Stamina Super Jump Ve Daha Fazlası!",
+      "link": "#",
+      "name": "Roblox V2 Hilesi 🎮",
+      "status": "bakim",
+      "tag": "Roblox"
+    },
+    {
+      "desc": "Online Dahil Bir Çok Özellik Seni Bekliyor!",
+      "link": "#",
+      "name": "GTA 5 V1 Hilesi 🚘",
+      "status": "bakim",
+      "tag": "GTA 5"
+    }
+  ],
+  "injector": [
+    {
+      "desc": "Tüm Oyunlarda Çalışan Injector!",
+      "name": "SensiiInjector ⚡",
+      "status": "bakim"
+    }
+  ],
+  "lastUpdated": "18.08.2025 23:54:09",
+  "premium": [
+    {
+      "desc": "Aimbot, ESP, Triggerbot ve daha fazlası",
+      "name": "Valorant Hilesi 🎯",
+      "prices": {
+        "1_saat": "65 TL",
+        "30_gun": "700 TL",
+        "7_gun": "445 TL"
+      }
+    },
+    {
+      "desc": "Aimbot, ESP ve özel araçlar",
+      "name": "FiveM Hilesi 🚗",
+      "prices": {
+        "1_saat": "75 TL",
+        "30_gun": "900 TL",
+        "7_gun": "445 TL"
+      }
+    }
+  ]
+}
